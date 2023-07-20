@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 
 function MovieCard({
   title,
@@ -15,3 +15,18 @@ function MovieCard({
 }
 
 export default MovieCard;
+
+
+// import React from "react";
+//  function MovieCard() {
+//   return (
+//     <div className = "movie-card">
+//     <img
+//     src = "https://i.pinimg.com/236x/9d/5e/4a/9d5e4a95884d9bb70bc101f7ed8461d4.jpg"
+//     alt = "King the Land : K-drama"
+//     ></img>
+//     <h2>King the Land : K-drama</h2>
+//     <small>Genres: Romance, Comedy, Emotional</small>
+//     </div>
+//   );
+//  }
